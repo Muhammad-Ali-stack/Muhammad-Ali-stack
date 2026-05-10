@@ -13,7 +13,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-50159b2b1/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadbvs2021@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Ali-stack)
@@ -27,7 +27,7 @@
 ```typescript
 const muhammad_ali = {
   role        : "Full Stack Developer",
-  experience  : "3 years in production — 2 years at a Canadian software firm",
+  experience  : "3 years in production — 2 years at a CloudJunction Advisors",
   focus       : ["AI integrations", "Backend systems", "SaaS platforms", "Mobile apps"],
   currently   : "Building scalable AI-powered CRM integrations & enterprise data pipelines",
   education   : "B.S. Computer Science @ NED University (Expected June 2027)",
