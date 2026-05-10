@@ -1,53 +1,173 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan 🇵🇰</h3>
+<div align="center">
 
-🚀 I’m currently learning **Bootstrap** and **React.js**  
-📫 Reach me at: **muhammadbvs2021@gmail.com**  
-🎯 Focused on building scalable apps, crafting clean UIs, and continuously upskilling in software engineering.
+```
+███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗      █████╗ ██╗     ██╗
+████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗    ██╔══██╗██║     ██║
+██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║    ███████║██║     ██║
+██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║    ██╔══██║██║     ██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝    ██║  ██║███████╗██║
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝     ╚═╝  ╚═╝╚══════╝╚═╝
+```
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ali-50159b2b1)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+3+Years+Experience;AI+%26+Backend+Systems+Architect;SaaS+Builder+%E2%80%94+From+0+to+Production;Shipped+to+15%2C500%2B+Real+Users" alt="Typing SVG" />
 
-# 💻 Skills & Technologies:
-### 👨‍💻 Programming Languages  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+<br/>
 
-### 🌐 Frontend Development  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
-![AngularJS](https://img.shields.io/badge/AngularJS-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)  
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadbvs2021@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-### 🖥️ Backend & Deployment  
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+</div>
 
-### 🎨 Adobe Creative Suite  
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)  
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  
-![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)  
-![Adobe Audition](https://img.shields.io/badge/Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)  
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)  
-![Adobe Acrobat](https://img.shields.io/badge/Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Muhammad-Ali-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ali-stack&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## `whoami`
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Muhammad-Ali-stack&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+```typescript
+const muhammad_ali = {
+  role        : "Full Stack Developer",
+  experience  : "3 years in production — 2 years at a Canadian software firm",
+  focus       : ["AI integrations", "Backend systems", "SaaS platforms", "Mobile apps"],
+  currently   : "Building scalable AI-powered CRM integrations & enterprise data pipelines",
+  education   : "B.S. Computer Science @ NED University (Expected June 2027)",
+  achievements: [
+    "Promoted fastest in team — within 5 months",
+    "2nd & 3rd place in competitive programming",
+    "IELTS Band 7 (C1 English)",
+    "Microsoft Azure Fundamentals certified",
+  ],
+  superpower  : "Turning complex system design problems into clean, shippable code",
+};
+```
 
+---
 
+## ⚡ What I've Shipped
+
+> Real production systems. Real users. Real impact.
+
+| Project | What it does | Scale | Stack |
+|---|---|---|---|
+| 🔗 **ERP → Salesforce Integration Platform** | Modular integration platform syncing enterprise ERP data to CRM in real-time with low latency | Production @ Canadian firm | Node.js · TypeScript · OAuth 2.0 · PostgreSQL · AWS |
+| 🤖 **AI Data (RAG) Service** | Access-scoped retrieval service exposing CRM data to enterprise LLMs with rate limiting & context chunking | Enterprise-grade | Node.js · LangChain · Vector DBs |
+| 🎓 **Conference Management Portal** | End-to-end submission, review, scheduling & admin workflows — sold to universities across Pakistan on subscription | **15,500+ users** | Node.js · PostgreSQL · React |
+| 📱 **NED Alumni App** | Full mobile platform with role-based access, deployed to Play Store & App Store | **1,000+ active users** | React Native · Kotlin · Firebase |
+| 📚 **NED Library App** | Institutional library mobile app — auth, search, catalog, admin panel | **1,000+ active users** | React Native · Node.js |
+| 🌐 **Client Websites (UK & PK)** | Production-grade React sites with performance optimization, SEO, and analytics automation | Live & in use | React · JavaScript · Analytics |
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=flat-square&logo=kubernetes&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**AI / Integrations**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![Dynamics365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Cloud, Data & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Architecture I Think In
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                     Systems I Build                             │
+├────────────────┬──────────────────┬─────────────────────────────┤
+│  Data Pipelines│  SaaS Platforms  │  AI-Powered Integrations    │
+│                │                  │                             │
+│  OAuth · JWT   │  Multi-tenant    │  RAG Services               │
+│  Token Rotation│  Sub billing     │  LLM Context Chunking       │
+│  Async Workers │  Role-based ACL  │  Vector Retrieval           │
+│  Caching Layers│  Webhook Events  │  Enterprise MCP Gateways    │
+└────────────────┴──────────────────┴─────────────────────────────┘
+```
+
+---
+
+## 🏆 By The Numbers
+
+<div align="center">
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **3** | **3** | **2** | **15,500+** |
+| Years Building | Mobile Apps Shipped | SaaS Platforms | Users Served |
+| | | | |
+| **2** | **Top 3** | **Band 7** | **AZ-900** |
+| Enterprise Client Sites | Competitive Programming | IELTS English | Azure Certified |
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=4" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
+---
+
+## 💡 How I Work
+
+```
+Problem → System Design → Clean Architecture → Ship → Measure → Iterate
+```
+
+I think in **systems**, not just features.  
+Every API I build is designed to scale. Every integration considers failure modes.  
+I don't just close tickets — I ask *why* the ticket exists.
+
+---
+
+<div align="center">
+
+**Open to backend, full-stack, or AI/integration engineering roles.**  
+If you're building something interesting, let's talk.
+
+[![Email](https://img.shields.io/badge/muhammadbvs2021%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadbvs2021@gmail.com)
+
+<sub>3 years in. shipped to tens of thousands of users. still hungry.</sub>
+
+</div>
