@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗      █████╗ ██╗     ██╗
-████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗    ██╔══██╗██║     ██║
-██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║    ███████║██║     ██║
-██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║    ██╔══██║██║     ██║
-██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝    ██║  ██║███████╗██║
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝     ╚═╝  ╚═╝╚══════╝╚═╝
-```
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+3+Years+Experience;AI+%26+Backend+Systems+Architect;SaaS+Builder+%E2%80%94+From+0+to+Production;Shipped+to+15%2C500%2B+Real+Users" alt="Typing SVG" />
 
 <br/>
@@ -16,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadbvs2021@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Ali-stack)
 
 </div>
 
@@ -48,16 +39,16 @@ const muhammad_ali = {
 
 | Project | What it does | Scale | Stack |
 |---|---|---|---|
-| 🔗 **ERP → Salesforce Integration Platform** | Modular integration platform syncing enterprise ERP data to CRM in real-time with low latency | Production @ Canadian firm | Node.js · TypeScript · OAuth 2.0 · PostgreSQL · AWS |
-| 🤖 **AI Data (RAG) Service** | Access-scoped retrieval service exposing CRM data to enterprise LLMs with rate limiting & context chunking | Enterprise-grade | Node.js · LangChain · Vector DBs |
-| 🎓 **Conference Management Portal** | End-to-end submission, review, scheduling & admin workflows — sold to universities across Pakistan on subscription | **15,500+ users** | Node.js · PostgreSQL · React |
-| 📱 **NED Alumni App** | Full mobile platform with role-based access, deployed to Play Store & App Store | **1,000+ active users** | React Native · Kotlin · Firebase |
-| 📚 **NED Library App** | Institutional library mobile app — auth, search, catalog, admin panel | **1,000+ active users** | React Native · Node.js |
-| 🌐 **Client Websites (UK & PK)** | Production-grade React sites with performance optimization, SEO, and analytics automation | Live & in use | React · JavaScript · Analytics |
+| **ERP to Salesforce Integration Platform** | Modular integration platform syncing enterprise ERP data to CRM in real-time with low latency | Production @ Canadian firm | Node.js · TypeScript · OAuth 2.0 · PostgreSQL · AWS |
+| **AI Data (RAG) Service** | Access-scoped retrieval service exposing CRM data to enterprise LLMs with rate limiting & context chunking | Enterprise-grade | Node.js · LangChain · Vector DBs |
+| **Conference Management Portal** | End-to-end submission, review, scheduling & admin workflows — sold to universities across Pakistan on subscription | 15,500+ users | Node.js · PostgreSQL · React |
+| **NED Alumni App** | Full mobile platform with role-based access, deployed to Play Store & App Store | 1,000+ active users | React Native · Kotlin · Firebase |
+| **NED Library App** | Institutional library mobile app — auth, search, catalog, admin panel | 1,000+ active users | React Native · Node.js |
+| **Client Websites (UK & PK)** | Production-grade React sites with performance optimization, SEO, and analytics automation | Live & in use | React · JavaScript · Analytics |
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -79,7 +70,7 @@ const muhammad_ali = {
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-**AI / Integrations**
+**AI & Integrations**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
@@ -102,7 +93,7 @@ const muhammad_ali = {
 
 ---
 
-## 📊 Architecture I Think In
+## Architecture I Think In
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -119,7 +110,7 @@ const muhammad_ali = {
 
 ---
 
-## 🏆 By The Numbers
+## By The Numbers
 
 <div align="center">
 
@@ -135,34 +126,28 @@ const muhammad_ali = {
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ali-stack&theme=tokyonight&hide_border=true&border_radius=4" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali-stack&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 ---
 
-## 💡 How I Work
+## How I Work
 
 ```
-Problem → System Design → Clean Architecture → Ship → Measure → Iterate
+Problem  →  System Design  →  Clean Architecture  →  Ship  →  Measure  →  Iterate
 ```
 
-I think in **systems**, not just features.  
-Every API I build is designed to scale. Every integration considers failure modes.  
-I don't just close tickets — I ask *why* the ticket exists.
+I think in systems, not just features. Every API I build is designed to scale. Every integration considers failure modes. I don't just close tickets — I ask *why* the ticket exists.
 
 ---
 
 <div align="center">
 
-**Open to backend, full-stack, or AI/integration engineering roles.**  
+**Open to backend, full-stack, or AI/integration engineering roles.**
 If you're building something interesting, let's talk.
 
 [![Email](https://img.shields.io/badge/muhammadbvs2021%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadbvs2021@gmail.com)
