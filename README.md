@@ -138,7 +138,7 @@ const muhammad_ali = {
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=4" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ali-stack&theme=tokyonight&hide_border=true&border_radius=4" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 </div>
 
