@@ -156,8 +156,7 @@ I think in systems, not just features. Every API I build is designed to scale. E
 
 <div align="center">
 
-**Open to backend, full-stack, or AI/integration engineering roles.**
-If you're building something interesting, let's talk.
+**If you're building something interesting, let's talk.**
 
 [![Email](https://img.shields.io/badge/muhammadbvs2021%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadbvs2021@gmail.com)
 
