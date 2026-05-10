@@ -139,7 +139,7 @@ const muhammad_ali = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ali-stack&theme=tokyonight&hide_border=true&border_radius=4" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali-stack&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
 </div>
 
 ---
