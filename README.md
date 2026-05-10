@@ -48,7 +48,6 @@ const muhammad_ali = {
 
 | Project | What it does | Scale | Stack |
 |---|---|---|---|
-| **ERP to Salesforce Integration Platform** | Modular integration platform syncing enterprise ERP data to CRM in real-time with low latency | Production @ Canadian firm | Node.js · TypeScript · OAuth 2.0 · PostgreSQL · AWS |
 | **AI Data (RAG) Service** | Access-scoped retrieval service exposing CRM data to enterprise LLMs with rate limiting & context chunking | Enterprise-grade | Node.js · LangChain · Vector DBs |
 | **Conference Management Portal** | End-to-end submission, review, scheduling & admin workflows — sold to universities across Pakistan on subscription | 15,500+ users | Node.js · PostgreSQL · React |
 | **NED Alumni App** | Full mobile platform with role-based access, deployed to Play Store & App Store | 1,000+ active users | React Native · Kotlin · Firebase |
