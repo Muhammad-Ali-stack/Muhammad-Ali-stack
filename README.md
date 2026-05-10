@@ -32,7 +32,6 @@ const muhammad_ali = {
   currently   : "Building scalable AI-powered CRM integrations & enterprise data pipelines",
   education   : "B.S. Computer Science @ NED University (Expected June 2027)",
   achievements: [
-    "Promoted fastest in team — within 5 months",
     "2nd & 3rd place in competitive programming",
     "IELTS Band 7 (C1 English)",
     "Microsoft Azure Fundamentals certified",
@@ -43,7 +42,7 @@ const muhammad_ali = {
 
 ---
 
-## ⚡ What I've Shipped
+## What I've Shipped
 
 > Real production systems. Real users. Real impact.
 
