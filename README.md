@@ -6,7 +6,7 @@
   <img alt="Muhammad-Ali-stack's GitHub profile" src="dark_mode.svg" width="100%" />
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=App+%26+Backend+Developer+%7C+AI+Systems;Payment+Pipelines+%7C+Ledger+Architecture;RAG+%26+LLM+Financial+Intelligence;3.5%2B+Years+Building+What+Banks+%26+Apps+Run+On" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=App+%26+Web+Developer+%7C+SaaS+Builder;Flutter+%7C+React+Native+%7C+Expo+%7C+Swift;LLM+%26+AI+Systems+Developer;3.5%2B+Years+Shipping+Apps%2C+Web%2C+and+AI" alt="Typing SVG" />
 
 <br/>
 
@@ -24,10 +24,10 @@
 
 ```typescript
 const dev = {
-  role        : "App & Backend Developer | AI Systems",
+  role        : "App & Web Developer | SaaS Builder | LLM/AI Developer",
   experience  : "3.5+ years in production (CloudJunction Advisors, NED University)",
-  focus       : ["App Development", "Backend & Fintech APIs", "AI/LLM Pipelines", "Enterprise Data"],
-  currently   : "Building ledger backends, financial AI, and enterprise-grade payment systems",
+  focus       : ["Cross-Platform Apps (Flutter, React Native, Expo, Swift)", "Full-Stack Web & SaaS", "LLM/AI Systems", "Backend & Fintech APIs"],
+  currently   : "Building mobile apps, SaaS platforms, and LLM-powered products end to end",
   education   : "B.S. Computer Science @ NED University (Expected June 2027)",
   achievements: [
     "Shipped PaperDesk to 15,500+ real users (ICONICS Conference Management Portal)",
@@ -42,18 +42,20 @@ const dev = {
 
 ---
 
-## Why App Dev
+## What I Do
 
 ```
-Money moves through APIs.
-Ledgers must never lie.
-Transactions must be atomic or not happen at all.
-Fraud detection must be real-time or it's useless.
+One idea. One codebase philosophy. Every platform.
+Flutter and React Native for mobile.
+Expo for fast iteration and OTA updates.
+Swift for native iOS when it matters.
+A full web/SaaS stack behind all of it.
+LLMs woven in wherever they add real value.
 
-That's the problem space I think in.
+That's the range I build in.
 ```
 
-I don't just build CRUD apps. I build systems where data integrity is non-negotiable: double-entry ledgers, idempotent payment APIs, audit-trail-first architecture, and financial intelligence powered by LLMs. 3.5+ years of production systems taught me the difference between code that works and code that's safe to run with real money.
+I ship across the whole surface: mobile apps (Flutter, React Native, Expo, native Swift), full-stack web and SaaS products, and LLM/AI-powered features baked into real products, not bolted on. 3.5+ years of production experience taught me how to take a product from idea to app store to paying users, with AI as a first-class part of the stack, not an afterthought.
 
 ---
 
@@ -73,19 +75,19 @@ I don't just build CRUD apps. I build systems where data integrity is non-negoti
 
 ---
 
-## Architecture I Think In
+## What I Build Across
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                       Systems I Build                               │
 ├──────────────────┬───────────────────┬──────────────────────────────┤
-│  App Development │  Payment Systems  │   AI Financial Intelligence  │
-│                  │                   │                              │
-│  React Native    │  Stripe / Webhooks│  SEC EDGAR Analysis          │
-│  Mobile + Web    │  Idempotency Keys │  Earnings Call Parsing       │
-│  Ledger Backends │  Token Rotation   │  Sentiment Extraction        │
-│  Atomic Txns     │  Retry Handling   │  RAG-Powered Q&A             │
-│  Soft Deletes    │  Rate Limiting    │  Vector-Based Retrieval      │
+│  Cross-Platform  │  Web & SaaS       │   LLM & AI Systems           │
+│  Apps            │                   │                              │
+│  Flutter         │  Full-Stack Web   │  RAG Pipelines               │
+│  React Native    │  SaaS Backends    │  Vector-Based Retrieval      │
+│  Expo            │  Payment Systems  │  LLM-Powered Features        │
+│  Swift (iOS)     │  Auth & APIs      │  AI Agents & MCP             │
+│  Play + App Store│  Multi-Tenant     │  Sentiment/Data Extraction   │
 └──────────────────┴───────────────────┴──────────────────────────────┘
 ```
 
@@ -95,8 +97,18 @@ I don't just build CRUD apps. I build systems where data integrity is non-negoti
 
 <div align="center">
 
-**Backend & Fintech APIs**
+**App Development (Mobile & Cross-Platform)**
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Web & SaaS**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -107,15 +119,7 @@ I don't just build CRUD apps. I build systems where data integrity is non-negoti
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-**App Development**
-
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-**AI & Financial Intelligence**
+**LLM & AI Development**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -174,7 +178,7 @@ I don't just build CRUD apps. I build systems where data integrity is non-negoti
 Problem  →  System Design  →  Clean Architecture  →  Ship  →  Measure  →  Iterate
 ```
 
-I think in failure modes before I write a line of code. In fintech, the question isn't "does this work?", it's "what happens when it doesn't, and does the money still balance?" Every API I design is idempotent by default. Every transaction is atomic or it rolls back. Every financial record carries an audit trail.
+I think in platforms and failure modes before I write a line of code. Same product logic, shipped natively on iOS with Swift, cross-platform with Flutter or React Native and Expo, and as a full web/SaaS product, with LLMs wired in wherever they genuinely improve the product. Every API I design is idempotent by default. Every transaction is atomic or it rolls back. Every feature is built to ship to real users, not just demo well.
 
 That's not caution. That's craft.
 
@@ -182,10 +186,20 @@ That's not caution. That's craft.
 
 <div align="center">
 
-**Building apps and financial infrastructure that have to be right. Let's talk.**
+**Building apps, web platforms, and AI products across every stack. Let's talk.**
 
 [![Email](https://img.shields.io/badge/muhammadbvs2021%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadbvs2021@gmail.com)
 
 <sub>3.5+ years in. shipped to 15,500+ real users. still hungry.</sub>
 
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="Acheivement%201.jpg" width="30%" />
+  <img src="Acheivement%202.jpg" width="30%" />
+  <img src="Acheivement%203.PNG" width="30%" />
 </div>
