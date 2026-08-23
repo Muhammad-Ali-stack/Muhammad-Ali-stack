@@ -32,9 +32,9 @@ const dev = {
   achievements: [
     "Shipped PaperDesk to 15,500+ real users (ICONICS Conference Management Portal)",
     "8,000+ combined downloads across published Play Store apps",
-    "2nd & 3rd place — competitive programming (FAST WebHunt)",
+    "2nd & 3rd place, competitive programming (FAST WebHunt)",
     "IELTS Band 7 (C1 English)",
-    "Microsoft Azure Fundamentals — AZ-900",
+    "Microsoft Azure Fundamentals (AZ-900)",
   ],
   superpower  : "Shipping apps and backends where every transaction is safe, every ledger balances, and every API survives at scale",
 };
@@ -42,7 +42,7 @@ const dev = {
 
 ---
 
-## Why App Dev + Fintech
+## Why App Dev
 
 ```
 Money moves through APIs.
@@ -53,7 +53,7 @@ Fraud detection must be real-time or it's useless.
 That's the problem space I think in.
 ```
 
-I don't just build CRUD apps. I build systems where data integrity is non-negotiable — double-entry ledgers, idempotent payment APIs, audit-trail-first architecture, and financial intelligence powered by LLMs. 3.5+ years of production systems taught me the difference between code that works and code that's safe to run with real money.
+I don't just build CRUD apps. I build systems where data integrity is non-negotiable: double-entry ledgers, idempotent payment APIs, audit-trail-first architecture, and financial intelligence powered by LLMs. 3.5+ years of production systems taught me the difference between code that works and code that's safe to run with real money.
 
 ---
 
@@ -63,13 +63,13 @@ I don't just build CRUD apps. I build systems where data integrity is non-negoti
 
 | Project | What it does | Scale | Stack |
 |---|---|---|---|
-| **PaperDesk** | Conference management platform — submissions, review, scheduling, admin workflows | **15,500+ users** — [paperdesk.neduet.edu.pk](https://paperdesk.neduet.edu.pk) | React · Express · Supabase |
-| **AlphaSignal** | AI financial intelligence platform — analyzes SEC EDGAR earnings calls with RAG, vector search & LLM sentiment extraction | Production | Python · RAG · Vector DBs · LLMs |
+| **PaperDesk** | Conference management platform: submissions, review, scheduling, admin workflows | **15,500+ users**, [paperdesk.neduet.edu.pk](https://paperdesk.neduet.edu.pk) | React · Express · Supabase |
+| **AlphaSignal** | AI financial intelligence platform, analyzes SEC EDGAR earnings calls with RAG, vector search & LLM sentiment extraction | Production | Python · RAG · Vector DBs · LLMs |
 | **Clearledger-BE** | Double-entry ledger backend with idempotent transactions, reconciliation engine, and audit trail | Fintech-grade | Node.js · TypeScript · PostgreSQL |
 | **Stratum-AI** | Full-stack CRM assistant integrating Salesforce, HubSpot, ServiceNow with AI-driven query layer | Enterprise | React · TypeScript · Express · Supabase |
-| **CRM-Mind** | Natural language Salesforce interface — create, update, query records via LLM | Enterprise | Node.js · TypeScript · Groq · LangChain |
+| **CRM-Mind** | Natural language Salesforce interface: create, update, query records via LLM | Enterprise | Node.js · TypeScript · Groq · LangChain |
 | **Ambition & NEDIAN** | Role-based mobile apps published on Google Play | 8,000+ combined downloads | React Native · Kotlin · Firebase |
-| **AI Data (RAG) Service** | Access-scoped CRM data retrieval exposed to enterprise LLMs — rate limiting, context chunking | Enterprise-grade | Node.js · LangChain · Vector DBs |
+| **AI Data (RAG) Service** | Access-scoped CRM data retrieval exposed to enterprise LLMs, rate limiting, context chunking | Enterprise-grade | Node.js · LangChain · Vector DBs |
 
 ---
 
@@ -174,7 +174,7 @@ I don't just build CRUD apps. I build systems where data integrity is non-negoti
 Problem  →  System Design  →  Clean Architecture  →  Ship  →  Measure  →  Iterate
 ```
 
-I think in failure modes before I write a line of code. In fintech, the question isn't "does this work?" — it's "what happens when it doesn't, and does the money still balance?" Every API I design is idempotent by default. Every transaction is atomic or it rolls back. Every financial record carries an audit trail.
+I think in failure modes before I write a line of code. In fintech, the question isn't "does this work?", it's "what happens when it doesn't, and does the money still balance?" Every API I design is idempotent by default. Every transaction is atomic or it rolls back. Every financial record carries an audit trail.
 
 That's not caution. That's craft.
 
@@ -182,7 +182,7 @@ That's not caution. That's craft.
 
 <div align="center">
 
-**Building apps and financial infrastructure that have to be right — let's talk.**
+**Building apps and financial infrastructure that have to be right. Let's talk.**
 
 [![Email](https://img.shields.io/badge/muhammadbvs2021%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadbvs2021@gmail.com)
 
