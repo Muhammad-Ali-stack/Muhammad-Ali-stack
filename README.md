@@ -1,15 +1,12 @@
 <div align="center">
 
-```
-███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗      █████╗ ██╗     ██╗
-████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗    ██╔══██╗██║     ██║
-██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║    ███████║██║     ██║
-██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║    ██╔══██║██║     ██║
-██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝    ██║  ██║███████╗██║
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝     ╚═╝  ╚═╝╚══════╝╚═╝
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Muhammad-Ali-stack's GitHub profile" src="dark_mode.svg" width="100%" />
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Fintech+%26+AI+Systems;Payment+Pipelines+%7C+Ledger+Architecture;RAG+%26+LLM+Financial+Intelligence;3+Years+Building+What+Banks+Run+On" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=App+%26+Backend+Developer+%7C+AI+Systems;Payment+Pipelines+%7C+Ledger+Architecture;RAG+%26+LLM+Financial+Intelligence;3.5%2B+Years+Building+What+Banks+%26+Apps+Run+On" alt="Typing SVG" />
 
 <br/>
 
@@ -26,25 +23,26 @@
 ## `whoami`
 
 ```typescript
-const muhammad_ali = {
-  role        : "Backend & AI Systems Engineer",
-  experience  : "3 years in production at Cloud Junction Advisors",
-  focus       : ["Fintech Systems", "Payment Integrations", "AI/LLM Pipelines", "Enterprise Data"],
+const dev = {
+  role        : "App & Backend Developer | AI Systems",
+  experience  : "3.5+ years in production (CloudJunction Advisors, NED University)",
+  focus       : ["App Development", "Backend & Fintech APIs", "AI/LLM Pipelines", "Enterprise Data"],
   currently   : "Building ledger backends, financial AI, and enterprise-grade payment systems",
   education   : "B.S. Computer Science @ NED University (Expected June 2027)",
   achievements: [
-    "Shipped platform to 15,500+ real users (ICONICS Conference Management Portal)",
+    "Shipped PaperDesk to 15,500+ real users (ICONICS Conference Management Portal)",
+    "8,000+ combined downloads across published Play Store apps",
     "2nd & 3rd place — competitive programming (FAST WebHunt)",
     "IELTS Band 7 (C1 English)",
     "Microsoft Azure Fundamentals — AZ-900",
   ],
-  superpower  : "Designing backends where every transaction is safe, every ledger balances, and every API survives at scale",
+  superpower  : "Shipping apps and backends where every transaction is safe, every ledger balances, and every API survives at scale",
 };
 ```
 
 ---
 
-## ₿ Why Fintech
+## Why App Dev + Fintech
 
 ```
 Money moves through APIs.
@@ -55,7 +53,7 @@ Fraud detection must be real-time or it's useless.
 That's the problem space I think in.
 ```
 
-I don't just build CRUD apps. I build systems where data integrity is non-negotiable — double-entry ledgers, idempotent payment APIs, audit-trail-first architecture, and financial intelligence powered by LLMs. Three years of production systems taught me the difference between code that works and code that's safe to run with real money.
+I don't just build CRUD apps. I build systems where data integrity is non-negotiable — double-entry ledgers, idempotent payment APIs, audit-trail-first architecture, and financial intelligence powered by LLMs. 3.5+ years of production systems taught me the difference between code that works and code that's safe to run with real money.
 
 ---
 
@@ -65,27 +63,27 @@ I don't just build CRUD apps. I build systems where data integrity is non-negoti
 
 | Project | What it does | Scale | Stack |
 |---|---|---|---|
+| **PaperDesk** | Conference management platform — submissions, review, scheduling, admin workflows | **15,500+ users** — [paperdesk.neduet.edu.pk](https://paperdesk.neduet.edu.pk) | React · Express · Supabase |
 | **AlphaSignal** | AI financial intelligence platform — analyzes SEC EDGAR earnings calls with RAG, vector search & LLM sentiment extraction | Production | Python · RAG · Vector DBs · LLMs |
 | **Clearledger-BE** | Double-entry ledger backend with idempotent transactions, reconciliation engine, and audit trail | Fintech-grade | Node.js · TypeScript · PostgreSQL |
-| **ICONICS Conference Portal** | End-to-end multi-tenant conference management — submission, review, scheduling, admin workflows | **15,500+ users** | Node.js · PostgreSQL · React |
 | **Stratum-AI** | Full-stack CRM assistant integrating Salesforce, HubSpot, ServiceNow with AI-driven query layer | Enterprise | React · TypeScript · Express · Supabase |
 | **CRM-Mind** | Natural language Salesforce interface — create, update, query records via LLM | Enterprise | Node.js · TypeScript · Groq · LangChain |
-| **NED Alumni App** | Role-based mobile platform deployed to Play Store & App Store | 1,000+ active users | React Native · Kotlin · Firebase |
+| **Ambition & NEDIAN** | Role-based mobile apps published on Google Play | 8,000+ combined downloads | React Native · Kotlin · Firebase |
 | **AI Data (RAG) Service** | Access-scoped CRM data retrieval exposed to enterprise LLMs — rate limiting, context chunking | Enterprise-grade | Node.js · LangChain · Vector DBs |
 
 ---
 
-## 💳 Fintech Architecture I Think In
+## Architecture I Think In
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                    Financial Systems I Build                        │
+│                       Systems I Build                               │
 ├──────────────────┬───────────────────┬──────────────────────────────┤
-│  Ledger Backends │  Payment Systems  │   AI Financial Intelligence  │
+│  App Development │  Payment Systems  │   AI Financial Intelligence  │
 │                  │                   │                              │
-│  Double-entry    │  Stripe / Webhooks│  SEC EDGAR Analysis          │
-│  Reconciliation  │  Idempotency Keys │  Earnings Call Parsing       │
-│  Audit Trails    │  Token Rotation   │  Sentiment Extraction        │
+│  React Native    │  Stripe / Webhooks│  SEC EDGAR Analysis          │
+│  Mobile + Web    │  Idempotency Keys │  Earnings Call Parsing       │
+│  Ledger Backends │  Token Rotation   │  Sentiment Extraction        │
 │  Atomic Txns     │  Retry Handling   │  RAG-Powered Q&A             │
 │  Soft Deletes    │  Rate Limiting    │  Vector-Based Retrieval      │
 └──────────────────┴───────────────────┴──────────────────────────────┘
@@ -108,6 +106,14 @@ I don't just build CRUD apps. I build systems where data integrity is non-negoti
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+**App Development**
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 **AI & Financial Intelligence**
 
@@ -134,13 +140,6 @@ I don't just build CRUD apps. I build systems where data integrity is non-negoti
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
 </div>
 
 ---
@@ -151,8 +150,8 @@ I don't just build CRUD apps. I build systems where data integrity is non-negoti
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| **3** | **15,500+** | **3** | **2** |
-| Years in Production | Real Users Served | Mobile Apps Shipped | SaaS Platforms |
+| **3.5+** | **15,500+** | **3** | **2** |
+| Years in Production | Real Users Served (PaperDesk) | Mobile Apps Shipped | SaaS Platforms |
 | | | | |
 | **Top 3** | **Band 7** | **AZ-900** | **$0 → Live** |
 | Competitive Programming | IELTS English | Azure Certified | Products Built from Scratch |
@@ -183,10 +182,10 @@ That's not caution. That's craft.
 
 <div align="center">
 
-**If you're building financial infrastructure that has to be right — let's talk.**
+**Building apps and financial infrastructure that have to be right — let's talk.**
 
 [![Email](https://img.shields.io/badge/muhammadbvs2021%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadbvs2021@gmail.com)
 
-<sub>3 years in. shipped to 15,500 real users. still hungry.</sub>
+<sub>3.5+ years in. shipped to 15,500+ real users. still hungry.</sub>
 
 </div>
