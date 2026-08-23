@@ -28,7 +28,7 @@ const dev = {
   experience  : "3.5+ years in production (CloudJunction Advisors, NED University)",
   focus       : ["Cross-Platform Apps (Flutter, React Native, Expo, Swift)", "Full-Stack Web & SaaS", "LLM/AI Systems", "Backend & Fintech APIs"],
   currently   : "Building mobile apps, SaaS platforms, and LLM-powered products end to end",
-  education   : "B.S. Computer Science @ NED University (Expected June 2027)",
+  education   : "B.S. Computer Science @ NED University (Expected April 2027)",
   achievements: [
     "Shipped PaperDesk to 15,500+ real users (ICONICS Conference Management Portal)",
     "8,000+ combined downloads across published Play Store apps",
