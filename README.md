@@ -195,11 +195,3 @@ That's not caution. That's craft.
 </div>
 
 ---
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="Acheivement%201.jpg" width="30%" />
-  <img src="Acheivement%202.jpg" width="30%" />
-  <img src="Acheivement%203.PNG" width="30%" />
-</div>
