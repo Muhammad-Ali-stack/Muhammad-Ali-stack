@@ -6,7 +6,7 @@
   <img alt="Muhammad-Ali-stack's GitHub profile" src="dark_mode.svg" width="100%" />
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=App+%26+Web+Developer+%7C+SaaS+Builder;Flutter+%7C+React+Native+%7C+Expo+%7C+Swift;LLM+%26+AI+Systems+Developer;3.5%2B+Years+Shipping+Apps%2C+Web%2C+and+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Agentic+Engineer+%7C+AI+Agents+Builder;Shipping+with+Claude+Code+%2B+Codex;App+%26+Web+Developer+%7C+SaaS+Builder;Flutter+%7C+React+Native+%7C+Expo+%7C+Swift;LLM+%26+AI+Systems+Developer;3.5%2B+Years+Shipping+Apps%2C+Web%2C+and+AI" alt="Typing SVG" />
 
 <br/>
 
@@ -24,7 +24,8 @@
 
 ```typescript
 const dev = {
-  role        : "App & Web Developer | SaaS Builder | LLM/AI Developer",
+  role        : "Agentic Engineer | App & Web Developer | SaaS Builder | LLM/AI Developer",
+  agentStack  : ["Claude Code", "OpenAI Codex", "AI Agents", "MCP Servers", "Multi-Agent Workflows"],
   experience  : "3.5+ years in production (CloudJunction Advisors, NED University)",
   focus       : ["Cross-Platform Apps (Flutter, React Native, Expo, Swift)", "Full-Stack Web & SaaS", "LLM/AI Systems", "Backend & Fintech APIs"],
   currently   : "Building mobile apps, SaaS platforms, and LLM-powered products end to end",
@@ -38,6 +39,73 @@ const dev = {
   ],
   superpower  : "Shipping apps and backends where every transaction is safe, every ledger balances, and every API survives at scale",
 };
+```
+
+---
+
+## Agentic Engineering
+
+<div align="center">
+
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com/claude-code)
+[![OpenAI Codex](https://img.shields.io/badge/%E2%9A%A1%20OpenAI%20Codex-000000?style=for-the-badge)](https://openai.com/codex)
+[![AI Agents](https://img.shields.io/badge/%F0%9F%A4%96%20AI%20Agents-6E40C9?style=for-the-badge)](#agentic-engineering)
+[![MCP](https://img.shields.io/badge/MCP%20Servers-1A1A1A?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+
+</div>
+
+> **Currently building:** Claude Code skills and multi-agent pipelines, like the [LinkedIn Agent](https://github.com/Muhammad-Ali-stack/Claude-Code-Linkedin-Agent) (15 skills) and a [DevOps Agent](https://github.com/Muhammad-Ali-stack/DevOps-Agent) that watches logs, diagnoses root causes, and drafts fixes.
+
+```
+I'm an Agentic Engineer.
+I don't just write code. I design, orchestrate, and ship with AI agents.
+Claude Code and Codex are my pair programmers.
+MCP servers connect my agents to real tools and real data.
+Multi-agent workflows plan, build, review, and test in parallel.
+```
+
+I build **AI agents into products**, and I build products **with AI agents**. My daily workflow runs on Claude Code and OpenAI Codex for planning, implementation, code review, and refactoring, while the products I ship use agents that reason over live data and take real actions.
+
+**Agentic products I've built:**
+
+| Product | What the agent does | Stack |
+|---|---|---|
+| **[Claude Code LinkedIn Agent](https://github.com/Muhammad-Ali-stack/Claude-Code-Linkedin-Agent)** | 15 Claude Code skills that run LinkedIn end to end: profile scoring, posts, comments, DMs, job search. Includes a humanizer, and nothing is posted without approval | Claude Code · Agent Skills |
+| **[DevOps Agent](https://github.com/Muhammad-Ali-stack/DevOps-Agent)** | Multi-agent pipeline that watches logs, diagnoses root causes, and drafts fixes automatically | Multi-Agent · LLMs |
+| **[MCP Server](https://github.com/Muhammad-Ali-stack/MCP-Server)** | Custom MCP server exposing tools over JSON-RPC to Gemini and Copilot clients | MCP · JSON-RPC |
+| **[CRM-Mind](https://github.com/Muhammad-Ali-stack/CRM-Mind)** | Natural-language agent that queries, creates, updates, and summarizes Salesforce records | Groq · Gemini · Salesforce OAuth |
+| **[MicroNeuro](https://github.com/Muhammad-Ali-stack/MicroNeuro)** | Outlook agent that reads the inbox via Microsoft Graph, extracts meetings and action items, and creates events or sends emails from prompts | Groq (Llama 3.3) · MS Graph |
+| **[Dhoom](https://github.com/Muhammad-Ali-stack/Dhoom-Your-Local-AI-Agent)** | AI UI-engineering agent that generates, previews, edits, and exports production React components. [Live demo](https://dhoom-your-local-ai-agent.vercel.app) | React · Multi-provider LLMs |
+| **[AlphaSignal](https://github.com/Muhammad-Ali-stack/AlphaSignal)** | AI research agent over SEC EDGAR earnings calls: RAG retrieval, sentiment, and UP/DOWN/NEUTRAL signals with reasoning | Python · RAG · Vector DBs |
+| **Stratum-AI** | AI assistant layer across Salesforce, HubSpot, and ServiceNow that routes queries to the right system | React · TypeScript · Supabase |
+
+**Agent skills:**
+
+```
+Tool / function calling       MCP server development       Subagent orchestration
+RAG & vector retrieval        Evals & guardrails           Prompt engineering & caching
+Human-in-the-loop approvals   Claude Code skills & hooks   Multi-provider LLM routing
+```
+
+**How I use agents:**
+
+```
+I write the spec  →  agents draft  →  I review every diff  →  tests + evals gate it  →  ship
+```
+
+Agents make me faster. They don't make the decisions. I own the architecture, read every line before it merges, and keep a human in the loop for any agent that takes real-world actions.
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                    My Agentic Workflow                       │
+├──────────────┬──────────────┬──────────────┬─────────────────┤
+│   Plan       │   Build      │   Review     │   Ship          │
+│  Claude Code │  Claude Code │  AI Code     │  Agents in      │
+│  plan mode   │  + Codex     │  Review      │  production     │
+│  Specs/Tasks │  Subagents   │  Tests/Evals │  MCP + Tools    │
+└──────────────┴──────────────┴──────────────┴─────────────────┘
 ```
 
 ---
@@ -119,14 +187,24 @@ I ship across the whole surface: mobile apps (Flutter, React Native, Expo, nativ
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
+**Agentic Coding & AI Agents**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/%E2%9A%A1%20OpenAI%20Codex-000000?style=flat-square)
+![AI Agents](https://img.shields.io/badge/%F0%9F%A4%96%20AI%20Agents-6E40C9?style=flat-square)
+![Anthropic](https://img.shields.io/badge/Anthropic%20API-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20Workflows-0A66C2?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
 **LLM & AI Development**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=flat-square&logo=huggingface&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
-![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-412991?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-1A1A1A?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
 **Enterprise Integrations**
 
@@ -168,6 +246,7 @@ I ship across the whole surface: mobile apps (Flutter, React Native, Expo, nativ
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ali-stack&theme=tokyonight&hide_border=true&border_radius=4" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali-stack&layout=compact&theme=tokyonight&hide_border=true&border_radius=4" height="165"/>
 </div>
 
 ---
@@ -186,7 +265,7 @@ That's not caution. That's craft.
 
 <div align="center">
 
-**Building apps, web platforms, and AI products across every stack. Let's talk.**
+**Agentic engineer building apps, web platforms, and AI agents across every stack. Let's talk.**
 
 [![Email](https://img.shields.io/badge/muhammadbvs2021%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadbvs2021@gmail.com)
 
